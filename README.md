@@ -17,7 +17,7 @@ I'm a Computer Science undergrad passionate about building tech that matters.
 `Python` `C++` `React` `FastAPI` `MongoDB` `Three.js` `Linux`
 
 ## 📫 Let's Connect!
-- 📧 yashgadekarv68@gmail.com
+- 📧 yashgadekar29@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/shreyash68)
 
 
