@@ -18,7 +18,7 @@ I'm a Computer Science undergrad passionate about building tech that matters.
 
 ## 📫 Let's Connect!
 - 📧 yashgadekar29@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/shreyash68)
+- 💼 [LinkedIn](https://www.linkedin.com/in/shreyashgadekar)
 
 
 ---
